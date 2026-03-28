@@ -1,4 +1,4 @@
-# Hi, I'm Asim Khan👋
+# Hi, I'm Asim👋
  
 ## 🎯 Career Goal
 Aspiring to become a complete **ASIC Engineer (RTL → GDSII)** with strong fundamentals in design, verification, and timing analysis.
@@ -22,6 +22,7 @@ Aspiring to become a complete **ASIC Engineer (RTL → GDSII)** with strong fund
 - Preparing for Design Verification roles
 
 ## 📊 GitHub Stats
+
 ![Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asim-asic&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-asic&layout=compact&theme=dark)
@@ -34,4 +35,4 @@ Aspiring to become a complete **ASIC Engineer (RTL → GDSII)** with strong fund
 
 ---
 
-⭐ “Focused on building strong fundamentals and real-world verification skills”
+⭐ “Focused on building strong fundamentals and real-world VLSI skills”
