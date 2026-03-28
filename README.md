@@ -15,17 +15,12 @@ Aspiring to become a complete **ASIC Engineer (RTL → GDSII)** with strong fund
 
 ---
 
-## 📈 Current Focus
+## 📈 Current Work
 - Strengthening Verilog and Digital Design fundamentals  
 - Building RTL projects  
-- Starting SystemVerilog for verification  
+- Learning SystemVerilog for verification  
 - Preparing for Design Verification roles
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asim-asic&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asim-asic&layout=compact&theme=dark" />
 ---
 
 ⭐ “Focused on building strong fundamentals and real-world VLSI skills”
