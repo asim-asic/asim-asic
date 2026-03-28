@@ -23,16 +23,9 @@ Aspiring to become a complete **ASIC Engineer (RTL → GDSII)** with strong fund
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=asim-asic&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asim-asic&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-asic&layout=compact&theme=dark" />
-
----
-
-## 🔗 Connect with Me
-- LinkedIn: https://linkedin.com/in/asim-asic  
-- Email: mohd.asim.ece@gmail.com  
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asim-asic&layout=compact&theme=dark" />
 ---
 
 ⭐ “Focused on building strong fundamentals and real-world VLSI skills”
