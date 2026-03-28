@@ -1,12 +1,15 @@
-# Hi, I'm Asim👋
+![Profile Views](https://komarev.com/ghpvc/?username=asim-asic&label=Profile%20Views&color=blue&style=flat)
 
-![Profile Views](https://komarev.com/ghpvc/?username=asim-asic&color=blue)
+<br>
 
+![Digital Design](https://img.shields.io/badge/Core-Digital%20Design-red)
+![RTL](https://img.shields.io/badge/Design-RTL-orange)
+![Platform](https://img.shields.io/badge/platform-ASIC-orange)
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
 ![SystemVerilog](https://img.shields.io/badge/Verification-SystemVerilog-green)
-![RTL](https://img.shields.io/badge/Design-RTL-orange)
-![Digital Design](https://img.shields.io/badge/Core-Digital%20Design-red)
-![EDA](https://img.shields.io/badge/Tools-Icarus%20Verilog-lightgrey) 
+
+# Hi, I'm Asim👋
+
 ## 🎯 Career Goal
 Aspiring to become a complete **ASIC Engineer (RTL → GDSII)** with strong fundamentals in design, verification, and timing analysis.
 
