@@ -3,11 +3,11 @@
 <br>
 
 ![Digital Design](https://img.shields.io/badge/Core-Digital%20Design-red)
-![RTL](https://img.shields.io/badge/Design-RTL-orange)
-![Platform](https://img.shields.io/badge/platform-ASIC-orange)
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
 ![SystemVerilog](https://img.shields.io/badge/Verification-SystemVerilog-green)
 
+![RTL](https://img.shields.io/badge/Design-RTL-orange)
+![Platform](https://img.shields.io/badge/platform-ASIC-purple)
 # Hi, I'm Asim👋
 
 ## 🎯 Career Goal
