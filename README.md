@@ -23,9 +23,9 @@ Aspiring to become a complete **ASIC Engineer (RTL → GDSII)** with strong fund
 
 ## 📊 GitHub Stats
 
-![Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asim-asic&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=asim-asic&show_icons=true&theme=dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asim-asic&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-asic&layout=compact&theme=dark" />
 
 ---
 
