@@ -34,12 +34,19 @@ design and design verification.
 ---
 
 ## 🛠️ Tools & Technologies
-**HDL:** Verilog | SystemVerilog
-**Linting 7 formatting:** Verible
-**Verification:** | SystemVerilog | UVM
-**Simulation:** Questa | Icarus Vierilog | GTKwave
-**RTL/ASIC:** Verilator | Yosys
-**Development:** Linux | Git | Github
+**HDL:** 
+Verilog | SystemVerilog
+**Linting & formatting:** 
+Verible
+**Verification:** 
+SystemVerilog | UVM
+**Simulation:** 
+Questa | Icarus Vierilog | GTKwave
+**RTL/ASIC:** 
+Verilator | Yosys
+**Development:** 
+Linux | Git | Github
+
 ---
 ## 🌐 Find Me Online
 📌 **LinkedIn:** [Asim Khan](https://www.linkedin.com/in/asimkhan-vlsi/)
