@@ -5,6 +5,7 @@
 ![Digital Design](https://img.shields.io/badge/Core-Digital%20Design-red)
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
 ![SystemVerilog](https://img.shields.io/badge/Verification-SystemVerilog-green)
+![UVM](https://img.shields.io/badge/Methodology-UVM-pink)
 ![RTL](https://img.shields.io/badge/Design-RTL-orange)
 ![Platform](https://img.shields.io/badge/Platform-ASIC-purple)
 
@@ -13,7 +14,7 @@
 
 ---
 
-## 🔨 Currently Building
+## 🔨 What I'm Building
 I learn by designing, linting, verifying, debugging, and documenting practical VLSI projects.
 
 My work includes RTL designs and UVM-based verification environments, with a focus on developing strong fundamentals and practical ASIC design skills.
@@ -46,9 +47,8 @@ design and design verification.
 
 ---
 ## 🌐 Find Me Online
-📌 **LinkedIn:** [Asim Khan](https://www.linkedin.com/in/asimkhan-vlsi/)
+📌 **LinkedIn:** [Asim Khan](https://www.linkedin.com/in/asimkhan-vlsi/) \n
 💻 **GitHub:** [asim-asic](https://github.com/asim-asic)
 
 ---
 
-⭐ “Focused on building strong fundamentals and real-world VLSI skills”
