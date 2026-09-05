@@ -8,26 +8,42 @@
 ![RTL](https://img.shields.io/badge/Design-RTL-orange)
 ![Platform](https://img.shields.io/badge/Platform-ASIC-purple)
 
-## 🎯 Career Goal
-Aspiring to become a complete **ASIC Engineer (RTL → GDSII)** with strong fundamentals in design, verification, and timing analysis.
+## 🎯 Career Focus
+**Aspiring ASIC Engineer focused on RTL Design and Design Verification, with hands-on experience building designs in Verilog/SystemVerilog and developing UVM-based verification environments.**
 
 ---
 
-## 🚀 Learning Roadmap
-- RTL Design (Verilog, Digital Design)
-- Design Verification (SystemVerilog - in progress)
-- Timing Analysis (Setup/Hold, Delays)
-- CDC & Metastability (in progress)
-- Synthesis & STA (planned)
-- Physical Design (RTL → GDSII flow)
+## 🔨 Currently Building
+I learn by designing, linting, verifying, debugging, and documenting practical VLSI projects.
+
+My work includes RTL designs and UVM-based verification environments, with a focus on developing strong fundamentals and practical ASIC design skills.
+
+---
+## 🚀 Projects
+
+I build practical VLSI projects to strengthen my understanding of RTL
+design and design verification.
+
+| Project | Focus | Status |
+|---|---|---|
+| 🔢 Floating-Point Adder | Verilog RTL Design | 🟢 Public |
+| 🏧 ATM | SystemVerilog RTL & Verification | 🔒 Private |
+| 🔗 AHB | SystemVerilog RTL & UVM Verification | 🔒 Private |
+| ⚡ PCIe Endpoint | SystemVerilog RTL & UVM Verification | 🔨 In Progress |
 
 ---
 
-## 📈 Current Work
-- Strengthening Verilog and Digital Design fundamentals  
-- Building RTL projects  
-- Learning SystemVerilog for verification  
-- Preparing for Design Verification roles
+## 🛠️ Tools & Technologies
+**HDL:** Verilog | SystemVerilog
+**Linting 7 formatting:** Verible
+**Verification:** | SystemVerilog | UVM
+**Simulation:** Questa | Icarus Vierilog | GTKwave
+**RTL/ASIC:** Verilator | Yosys
+**Development:** Linux | Git | Github
+---
+## 🌐 Find Me Online
+📌 **LinkedIn:** [Asim Khan](https://www.linkedin.com/in/asimkhan-vlsi/)
+💻 **GitHub:** [asim-asic](https://github.com/asim-asic)
 
 ---
 
