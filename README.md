@@ -12,14 +12,11 @@
 ## 🎯 Career Focus
 **Aspiring ASIC Engineer focused on RTL Design and Design Verification, with hands-on experience building designs in Verilog/SystemVerilog and developing UVM-based verification environments.**
 
----
-
 ## 🔨 What I'm Building
 I learn by designing, linting, verifying, debugging, and documenting practical VLSI projects.
 
 My work includes RTL designs and UVM-based verification environments, with a focus on developing strong fundamentals and practical ASIC design skills.
 
----
 ## 🚀 Projects
 
 I build practical VLSI projects to strengthen my understanding of RTL
@@ -32,8 +29,6 @@ design and design verification.
 | 🔗 AHB | SystemVerilog RTL & UVM Verification | 🔒 Private |
 | ⚡ PCIe Endpoint | SystemVerilog RTL & UVM Verification | 🔨 In Progress |
 
----
-
 ## 🛠️ Tools & Technologies
 
 | Category | Technologies |
@@ -45,10 +40,8 @@ design and design verification.
 | **Linting / Formatting** | Verible |
 | **Development** | Linux, Git, GitHub |
 
----
 ## 🌐 Find Me Online
-📌 **LinkedIn:** [Asim Khan](https://www.linkedin.com/in/asimkhan-vlsi/) \n
+📌 **LinkedIn:** [Asim Khan](https://www.linkedin.com/in/asimkhan-vlsi/) 
 💻 **GitHub:** [asim-asic](https://github.com/asim-asic)
 
----
 
