@@ -34,18 +34,15 @@ design and design verification.
 ---
 
 ## 🛠️ Tools & Technologies
-**HDL:** 
-Verilog | SystemVerilog
-**Linting & formatting:** 
-Verible
-**Verification:** 
-SystemVerilog | UVM
-**Simulation:** 
-Questa | Icarus Vierilog | GTKwave
-**RTL/ASIC:** 
-Verilator | Yosys
-**Development:** 
-Linux | Git | Github
+
+| Category | Technologies |
+|---|---|
+| **HDL** | Verilog, SystemVerilog |
+| **Verification** | SystemVerilog, UVM |
+| **Simulation** | Questa, Icarus Verilog, GTKWave |
+| **RTL / Synthesis** | Verilator, Yosys |
+| **Linting / Formatting** | Verible |
+| **Development** | Linux, Git, GitHub |
 
 ---
 ## 🌐 Find Me Online
